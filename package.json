@@ -1,0 +1,25 @@
+{
+  "name": "list-to-matrix",
+  "version": "1.0.0",
+  "description": "Convert list to matrix",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stevemao/list-to-matrix.git"
+  },
+  "keywords": [
+    "array",
+    "utility",
+    "list",
+    "matrix"
+  ],
+  "author": "Steve Mao",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/stevemao/list-to-matrix/issues"
+  },
+  "homepage": "https://github.com/stevemao/list-to-matrix#readme"
+}
